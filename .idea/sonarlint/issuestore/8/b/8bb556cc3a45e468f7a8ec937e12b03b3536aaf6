@@ -1,0 +1,22 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(®Öäßúÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÒÒ¡‰ûÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(®Öäßúÿÿÿÿ
+J
+java:S62126"/Declare this local variable with "var" instead.(–ò‡ßûÿÿÿÿ
+D
+java:S62127"/Declare this local variable with "var" instead.(­€×4
+E
+java:S62128"/Declare this local variable with "var" instead.(åìÁ‰
+E
+java:S62129"/Declare this local variable with "var" instead.(è ‘
+E
+java:S6212:"/Declare this local variable with "var" instead.(¶õ•—
+J
+java:S6212;"/Declare this local variable with "var" instead.(â«­†ùÿÿÿÿ
+E
+java:S6212="/Declare this local variable with "var" instead.(‘§—¡
+>	java:S108A")Either remove or fill this block of code.(”ı¾
+J
+java:S6212L"/Declare this local variable with "var" instead.(Ìˆ¸õÿÿÿÿÿ
